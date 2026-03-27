@@ -41,3 +41,7 @@ online_retail_dashboard/
 - `app.py`: The main Streamlit application file.
 - `README.md`: This documentation file.
 - `requirements.txt`: List of required Python packages.
+
+### Dashboard URL
+The dashboard is hosted on Streamlit Cloud and can be accessed at:
+[https://dashboard-ecommerce-neceabv5yinwhnabayvum.streamlit.app/](https://dashboard-ecommerce-neceabv5yinwhnabayvum.streamlit.app/)
